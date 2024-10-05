@@ -1,3 +1,8 @@
-## Hi there 👋
+# Hi there, I'm Jonathan 👋
 
-Nice to have you! You're welcome to have a look around.
+### 🎓 About Me
+I'm an **Electrical Engineering** student at **FAU**. I primarily code in **Swift**, and I'm currently diving into **Rust**.
+
+### ⚡ What I'm Working On
+- 🛠 **LED Driver Development**: I'm currently working on a project to develop efficient LED drivers for my DIYson project.
+- 🛠 **3D Printing**: I'm modeling different useful gadets.
