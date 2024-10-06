@@ -1,5 +1,5 @@
 ```swift
-struct JeSuisUnAnanas: Person {
+struct JeSuisUnAnanas {
     let name = "Jonathan"
     var interests = ["3d printing", "electronics", "web dev", "coffee"]
     var tools = ["Swift", "Rust", "Solid Edge", "Circuitmaker"]
