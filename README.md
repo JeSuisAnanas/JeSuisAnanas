@@ -1,8 +1,8 @@
-# Hi there, I'm Jonathan 👋
+# Hello there 👋
 
-### 🎓 About Me
-I'm an **Electrical Engineering** student at **FAU**. I primarily code in **Swift**, and I'm currently diving into **Rust**.
-
-### ⚡ What I'm Working On
-- 🛠 **LED Driver Development**: I'm currently working on a project to develop efficient LED drivers for my DIYson project.
-- 🛠 **3D Printing**: I'm modeling different useful gadets.
+```swift
+struct JeSuisUnAnanas: Person {
+    let name = "Jonathan"
+    var interests = ["3d printing", "electronics", "web dev", "coffee"]
+    var tools = ["Swift", "Rust", "Solid Edge", "Circuitmaker"]
+}
