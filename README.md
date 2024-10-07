@@ -1,7 +1,7 @@
 ```swift
 struct JeSuisUnAnanas {
     let name = "Jonathan"
-    var interests = ["3d printing", "electronics", "web dev", "coffee"]
+    var interests = ["3d printing", "electronics", "math", "coding", "coffee"]
     var tools = ["Swift", "Rust", "Solid Edge", "Circuitmaker"]
 }
 ```
